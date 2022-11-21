@@ -1,5 +1,14 @@
 Hi 👋 My name is Berk.
-======================DevOps Engineer & Linux System Administrator--------------------------------------------I have a blog about Linux and Free Software. You can visit at www.berkbal.com* 🌍  I'm based in Turkey, Ankara* 🖥️  See my portfolio at [I have a blog](http://berkbal.com)* ✉️  You can contact me at [ben@berkbal.com](mailto:ben@berkbal.com)* 🚀  I'm currently working on [Altosec](http://www.altosec.com.tr)* 🧠  I'm learning Prometheus & Grafana* ⚡  I use arch btw
+
+
+**DevOps Engineer & Linux System Administrator**
+- I have a blog about Linux and Free Software. You can visit at www.berkbal.com* 
+
+- 🌍  I'm based in Turkey, Ankara* 
+- ✉️  You can contact me at [ben@berkbal.com](mailto:ben@berkbal.com)* 
+- 🚀  I'm currently working on [Altosec](http://www.altosec.com.tr)* 
+- 🧠  I'm learning Prometheus & Grafana* 
+- ⚡  I use arch btw
 
 ### Skills
 

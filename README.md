@@ -1,7 +1,7 @@
 Hi 👋 My name is Berk.
 
 
-**DevOps Engineer & Linux System Administrator**
+**Linux System Administrator with CI/CD Skills**
 - I have a blog about Linux and Free Software. You can visit at www.berkbal.com
 
 - 🌍  I'm based in Turkey, Ankara

@@ -6,7 +6,7 @@ Hi 👋 My name is Berk.
 
 - 🌍  I'm based in Turkey, Ankara
 - ✉️  You can contact me at [ben@berkbal.com](mailto:ben@berkbal.com)
-- 🚀  I'm currently working on [Altosec](http://www.altosec.com.tr)
+- 🚀  I'm currently working on [Metunic](http://www.metunic.com.tr)
 
 ### Skills
 

@@ -2,7 +2,7 @@ Hi 👋 My name is Berk.
 
 
 **Linux System Administrator with CI/CD Skills**
-- I have a blog about Linux and Free Software. You can visit at www.berkbal.com
+- Personal Website: berkbal.com
 
 - 🌍  I'm based in Turkey, Ankara
 - ✉️  You can contact me at [ben@berkbal.com](mailto:ben@berkbal.com)

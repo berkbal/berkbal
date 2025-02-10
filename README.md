@@ -4,7 +4,7 @@ I am always exploring new technologies and continuously strive to optimize syste
 
 You can check out my GitHub profile to explore my projects, or visit my GitHub Pages where I regularly share documents and insights about Linux System Administration. Links are down below.
 **Linux System Administrator with CI/CD Skills**
-- Personal Website: berkbal.com
+- Personal Website: [berkbal.com](https://berkbal.com)
 
 - 🌍  I'm based in Turkey, Ankara
 - ✉️  You can contact me at [ben@berkbal.com](mailto:ben@berkbal.com)

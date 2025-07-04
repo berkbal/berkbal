@@ -3,7 +3,6 @@ Hi, 👋 I'm Berk, a Linux System Administrator with a strong passion for open-s
 I am always exploring new technologies and continuously strive to optimize system administration processes. My commitment to open-source software is reflected in both my professional and personal projects.
 
 You can check out my GitHub profile to explore my projects, or visit my GitHub Pages where I regularly share documents and insights about Linux System Administration. Links are down below.
-**Linux System Administrator with CI/CD Skills**
 
 - 🌍  I'm based in Turkey, Ankara
 

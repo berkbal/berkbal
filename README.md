@@ -7,7 +7,7 @@ You can check out my GitHub profile to explore my projects, or visit my GitHub P
 - 🌍  I'm based in Turkey, Ankara
 
 - Personal Website: [berkbal.com](https://berkbal.com)
-- ✉️  You can contact me at [ben@berkbal.com](mailto:ben@berkbal.com)
+- ✉️  You can contact me at [ben@berkbal.com.tr](mailto:ben@berkbal.com)
 - 🚀  I'm currently working on [METUnic](http://www.metunic.com.tr)
 
 ### Skills

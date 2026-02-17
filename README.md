@@ -8,6 +8,7 @@ You can check out my GitHub profile to explore my projects, or visit my GitHub P
 
 - Personal Website: [berkbal.com](https://berkbal.com)
 - ✉️  You can contact me at [ben@berkbal.com.tr](mailto:ben@berkbal.com)
+- I currently work at [BMC Power](https://www.bmcpower.com.tr/)
 
 ### Skills
 
